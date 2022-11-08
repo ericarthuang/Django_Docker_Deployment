@@ -131,3 +131,6 @@ dmypy.json
 # Use Reverser Proxy to Handle Static and Media Files
 # due to Volmumes Mouning, do not need to upload Static and Media Files 
 /data
+
+# AWS EC2
+/ec2
